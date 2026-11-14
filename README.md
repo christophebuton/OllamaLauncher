@@ -1,5 +1,5 @@
 # Ollama Launcher
-Interface graphique pour l'installation et l'utilisation de Ollama
+Interface graphique pour l'installation et l'utilisation d'Ollama
 
 Sous Debian, les 6 paquets suivants doivent être présents :
 python3-tk  
